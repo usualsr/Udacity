@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa517269-2e36-4e9e-846a-95723bb973d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHozJeZ0geFf3BT73dX5CcnJSY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.docstring">
+    <configuration name="docstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docstring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="perfect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/perfect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rough2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rough2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ud_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ud_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.docstring" />
+        <item itemvalue="Python.scope" />
+        <item itemvalue="Python.ud_function" />
+        <item itemvalue="Python.rough2" />
+        <item itemvalue="Python.perfect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa517269-2e36-4e9e-846a-95723bb973d3" name="Default Changelist" comment="" />
+      <created>1586402140784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586402140784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom" timestamp="1586588622065">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586588622065" />
+    <state width="1345" height="154" key="GridCell.Tab.0.center" timestamp="1586588622065">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="154" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586588622065" />
+    <state width="1345" height="154" key="GridCell.Tab.0.left" timestamp="1586588622065">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="154" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586588622065" />
+    <state width="1345" height="154" key="GridCell.Tab.0.right" timestamp="1586588622065">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="154" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586588622065" />
+    <state width="1328" height="235" key="GridCell.Tab.1.bottom" timestamp="1586574610278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1328" height="235" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586574610278" />
+    <state width="1328" height="235" key="GridCell.Tab.1.center" timestamp="1586574610278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1328" height="235" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1586574610278" />
+    <state width="1328" height="235" key="GridCell.Tab.1.left" timestamp="1586574610278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1328" height="235" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1586574610278" />
+    <state width="1328" height="235" key="GridCell.Tab.1.right" timestamp="1586574610278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1328" height="235" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1586574610278" />
+    <state x="378" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1586917336096">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586917336096" />
+    <state x="0" y="0" width="1361" height="573" key="dock-window-1" timestamp="1586575576464">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="1361" height="573" key="dock-window-1/0.0.1366.768@0.0.1366.768" timestamp="1586575576464" />
+    <state x="344" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586507548498">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="344" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1586507548498" />
+  </component>
+</project>
